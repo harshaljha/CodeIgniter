@@ -11,7 +11,7 @@ Release Date: Not Released
 Version 3.0.2
 =============
 
-Release Date: Not Released
+Release Date: 09-Oct-2015
 
 -  General Changes
 
